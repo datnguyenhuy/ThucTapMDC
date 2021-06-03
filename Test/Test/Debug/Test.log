@@ -1,0 +1,4 @@
+﻿  Test.cpp
+C:\Users\admin\source\repos\Test\Test\Test.cpp(107,8): warning C4101: 'c': unreferenced local variable
+C:\Users\admin\source\repos\Test\Test\Test.cpp(107,11): warning C4101: 'd': unreferenced local variable
+  Test.vcxproj -> C:\Users\admin\source\repos\Test\Debug\Test.exe
